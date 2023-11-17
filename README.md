@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Markyh5
 - 👀 I’m interested in learner to code (hopefully for a better career )
-- 🌱 I’m currently learning swift / Xcode
+- 👨‍💻 I’m currently learning swift / Xcode
 
 <!---
 Markyh5/Markyh5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
