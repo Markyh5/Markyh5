@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Markyh5
-- 👀 I’m interested in learner to code (hopefully for a better career )
+- 👀 I’m interested in learner to code
 
 
 <!---
